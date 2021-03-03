@@ -9,7 +9,7 @@ Libraries/frameworks implemented within this project:
 
 * Keras
 * TensorFlow
-* Numpy
-* Pandas
+* NumPy
+* pandas
 * matplotlib
 * scikit-learn
